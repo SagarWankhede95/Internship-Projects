@@ -29,7 +29,7 @@ The analysis addresses the following key questions
 
 # **Project Insights**
 
-• Women are more likely to buy in comparison to men (~65%)
+• Women are more likely to buy in comparison to men (~69.4%)
 
 • Maharashtra, Karnataka & Uttar Pradesh are the top 3 states with the highest sales.
 
